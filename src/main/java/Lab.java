@@ -46,7 +46,7 @@ public class Lab {
     }
 
     /**
-     * Add an item to a list.
+     * Add an item to a list .
      * When we add a value to a list, it gets appended to the end.
      *
      * @param list a List<Integer> object that we would like to modify.
